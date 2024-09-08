@@ -1,0 +1,107 @@
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\nyoba browser.exe.config
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\nyoba browser.exe
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\nyoba browser.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\x86\Debug\nyoba browser.csprojAssemblyReference.cache
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\x86\Debug\nyoba_browser.Form1.resources
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\x86\Debug\nyoba_browser.Properties.Resources.resources
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\x86\Debug\nyoba browser.csproj.GenerateResource.cache
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\x86\Debug\nyoba browser.csproj.CoreCompileInputs.cache
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\x86\Debug\nyoba browser.exe
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\x86\Debug\nyoba browser.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\cef.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\cef_100_percent.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\cef_200_percent.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\cef_extensions.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\chrome_elf.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\d3dcompiler_47.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\devtools_resources.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\icudtl.dat
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\libcef.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\libEGL.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\libGLESv2.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\am.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ar.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\bg.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\bn.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ca.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\cs.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\da.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\de.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\el.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\en-GB.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\en-US.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\es-419.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\es.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\et.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\fa.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\fi.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\fil.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\fr.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\gu.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\he.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\hi.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\hr.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\hu.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\id.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\it.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ja.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\kn.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ko.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\lt.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\lv.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ml.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\mr.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ms.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\nb.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\nl.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\pl.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\pt-BR.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\pt-PT.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ro.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ru.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\sk.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\sl.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\sr.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\sv.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\sw.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\ta.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\te.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\th.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\tr.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\uk.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\vi.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\zh-CN.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\locales\zh-TW.pak
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\natives_blob.bin
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\README.txt
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\snapshot_blob.bin
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\swiftshader\libEGL.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\swiftshader\libGLESv2.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\v8_context_snapshot.bin
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.Core.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.XML
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.WinForms.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\CefSharp.WinForms.XML
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\babylon.js
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\babylon.stlFileLoader.js
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\babylonjs.loaders.min.js
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\sudah benar load.html
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\tes.html
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\18550_Semi_Truck w_Trailer_wheel_v1_NEW.obj
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\21398_Ocean_Liner_V2.obj
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\328389_tempat drone.STL
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\Baby_Yoda_v2.2.stl
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\Buggy.gltf
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\delta rev.stl
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\Delta.STL
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\Mcqueen Car.STL
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\x86\Debug\model\scene.gltf

@@ -1,0 +1,10 @@
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\Debug\nyoba browser.exe.config
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\Debug\nyoba browser.exe
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\bin\Debug\nyoba browser.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\Debug\nyoba browser.csprojAssemblyReference.cache
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\Debug\nyoba_browser.Properties.Resources.resources
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\Debug\nyoba browser.csproj.GenerateResource.cache
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\Debug\nyoba browser.csproj.CoreCompileInputs.cache
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\Debug\nyoba browser.exe
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\Debug\nyoba browser.pdb
+C:\Users\antares\source\repos\nyoba browser\nyoba browser\obj\Debug\nyoba_browser.Form1.resources
