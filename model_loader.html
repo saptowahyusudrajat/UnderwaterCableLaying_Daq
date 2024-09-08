@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8"/>
+    <title>Babylon - Getting Started</title>
+    <!--- Link to the last version of BabylonJS --->
+    <script src="babylon.js"></script>
+	<script src="babylon.stlFileLoader.js"></script>
+	<script src="babylonjs.loaders.min.js"></script>
+	
+    <style>
+        html, body {
+            overflow: hidden;
+            width   : 100%;
+            height  : 100%;
+            margin  : 0;
+            padding : 0;
+        }
+
+        #renderCanvas {
+            width   : 100%;
+            height  : 100%;
+            touch-action: none;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="renderCanvas"></canvas>
+    <script>
+	var dude;
+	var yaw=10;
+	
+	function update(){
+	yaw = 45;
+	
+	
+	}
+	
+			
+
+		function tes(){
+				scene.registerBeforeRender(function(){		
+		dude.rotation= new BABYLON.Vector3((180*Math.PI/180), (90*Math.PI/180), (90*Math.PI/180));  //(roll,yaw,pitch)
+		
+		});
+		}
+
+	
+     // Get the canvas element from our HTML below
+var canvas = document.querySelector("#renderCanvas");
+// Load the BABYLON 3D engine
+var engine = new BABYLON.Engine(canvas, true);
+// -------------------------------------------------------------
+
+var createScene = function () {
+    var scene = new BABYLON.Scene(engine);
+
+    //Adding a light
+    var light = new BABYLON.PointLight("Omni", new BABYLON.Vector3(20, 20, 100), scene);
+
+    //Adding an Arc Rotate Camera
+   // var camera = new BABYLON.ArcRotateCamera("Camera", 0, 0.8, 100, BABYLON.Vector3.Zero(), scene);
+	var camera = new BABYLON.ArcRotateCamera("Camera", 1 *Math.PI/1, 1 * Math.PI/ 2, 200, BABYLON.Vector3.Zero(), scene);
+    camera.attachControl(canvas, false);
+
+
+
+
+
+
+
+    // The first parameter can be used to specify which mesh to import. Here we import all meshes
+    BABYLON.SceneLoader.ImportMesh("", "model/", "delta rev.stl", scene, function (newMeshes) {
+	dude = newMeshes[0];
+	
+	dude.rotation= new BABYLON.Vector3((0*Math.PI/180), (0*Math.PI/180), (5*Math.PI/180));  //(roll,yaw,pitch)
+        // Set the target of the camera to the first imported mesh
+        camera.target = newMeshes[0];
+		
+		dude.rotationQuaternion = null;
+		
+		//scene.registerBeforeRender(function(){		
+		//dude.rotation= new BABYLON.Vector3((5*Math.PI/180), (90*Math.PI/180), (90*Math.PI/180));  //(roll,yaw,pitch)
+		
+		//});
+		
+		
+		
+		
+		
+    });
+
+    // Move the light with the camera
+    scene.registerBeforeRender(function () {
+        light.position = camera.position;
+    });
+
+
+
+
+	
+
+
+
+    return scene;
+}
+// -------------------------------------------------------------
+// Now, call the createScene function that you just finished creating
+var scene = createScene();
+// Register a render loop to repeatedly render the scene
+engine.runRenderLoop(function () {
+    scene.render();
+});
+// Watch for browser/canvas resize events
+window.addEventListener("resize", function () {
+    engine.resize();
+});
+    </script>
+</body>
+</html>
